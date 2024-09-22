@@ -1,9 +1,17 @@
 # FILME
 
-O projeto consiste em somente uma classe (FIlme) e um enum (GENERO) em que na classe estão os métodos:
+O projeto consiste em somente uma classe (FIlme) e um enum (GENERO) em que na classe estão os atributos:
 * titulo
 * duracao
 * genero
+
+E métodos:
+* getTitulo
+* setTitulo
+* getDuracao
+* setDuracao
+* getGenero
+* setGenero
 
 E no enum estão os gêneros:
 * TERROR
